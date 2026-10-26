@@ -61,6 +61,31 @@ These public repositories are learning-project starters. Projects marked “Loca
 
 I aim to document data sources and licenses, prevent data leakage, use task-appropriate metrics, and report only results from experiments that have actually run.
 
+## Long-term project idea map
+
+The numbers below are a **proposed idea allocation**, not a claim that 500 repositories or implementations exist. The current portfolio has 12 projects: 9 public and 3 local. Linked entries show the nearest current project; “No project yet” means that area is only a future direction.
+
+<details>
+<summary>Explore the 500-slot idea map across 10 areas</summary>
+
+| Area | Idea target | Current portfolio connection | Stage |
+|---|---:|---|---|
+| Computer vision and image processing | 60 | [`haveni-vision`](https://github.com/FSENAKAYA-code/haveni-vision), `vision-matrix-cnn` (local), [`neural-hybrid-pipeline`](https://github.com/FSENAKAYA-code/neural-hybrid-pipeline) | Planning target |
+| NLP and language models | 50 | `nlp-sentiment-engine` (local), `sitcom-sentiment` (local) | Planning target |
+| Audio and speech | 40 | [`acoustic-pulse-hmm`](https://github.com/FSENAKAYA-code/acoustic-pulse-hmm) | Planning target |
+| Web data and pricing analysis | 50 | [`market-pulse-scraper`](https://github.com/FSENAKAYA-code/market-pulse-scraper) | Planning target |
+| Healthcare and medical informatics | 40 | [`health-mhrs-analytics`](https://github.com/FSENAKAYA-code/health-mhrs-analytics) | Planning target |
+| Fintech and quantitative analysis | 50 | [`fintech-algorithmic-trader`](https://github.com/FSENAKAYA-code/fintech-algorithmic-trader) | Planning target |
+| Enterprise MIS and business intelligence | 50 | [`enterprise-erp-dashboard`](https://github.com/FSENAKAYA-code/enterprise-erp-dashboard) | Planning target |
+| Fraud detection and defensive security | 40 | [`anomaly-detector-fraud`](https://github.com/FSENAKAYA-code/anomaly-detector-fraud) | Planning target |
+| IoT, edge AI and sensor analytics | 40 | No project yet | Planning target |
+| MLOps and development automation | 80 | [`automated-ci-ml-ops`](https://github.com/FSENAKAYA-code/automated-ci-ml-ops) | Planning target |
+| **Total planned idea capacity** | **500** | **12 current projects** | **Aspirational** |
+
+Healthcare concepts will use appropriately licensed or synthetic data and will not imply access to MHRS or e-Nabız. Financial projects are for analysis and backtesting, not live trading. Data collection will respect source terms and privacy.
+
+</details>
+
 ## GitHub activity
 
 <div align="center">
