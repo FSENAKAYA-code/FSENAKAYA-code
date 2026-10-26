@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/profile-avatar.svg" alt="FS monogram with a quiet data-network motif in warm ivory, charcoal, and sage" width="112" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:102A43,100:6C3BFF&height=190&section=header&text=Fatma%20Sena%20Kaya&fontSize=40&fontColor=E6F1FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Business%20Intelligence&descSize=15&descColor=68F5D0&descAlignY=61" alt="Neon teal and violet wave banner with Fatma Sena Kaya's name" width="100%" />
 
-# Fatma Sena Kaya
-
-**Management Information Systems · Computer Programming · AI & Data Science learner**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1100&color=68F5D0&center=true&vCenter=true&width=680&height=42&lines=Management+Information+Systems+student;Learning+AI%2C+data+science+and+software;Building+small%2C+reproducible+projects" alt="Animated introduction: MIS student learning AI, data science and software" />
 
 [GitHub](https://github.com/FSENAKAYA-code) · [LinkedIn](https://www.linkedin.com/in/sena-kaya-8634ba383/)
 
@@ -34,6 +32,12 @@ Computer vision and CNNs · Turkish NLP and sentiment analysis · audio analysis
 
 **Learning and exploring:** SQL, computer vision, NLP, audio processing, model evaluation, APIs, data visualization, and business intelligence dashboards.
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,pandas,sklearn,sqlite,git,github,vscode&theme=dark" alt="Python, PyTorch, pandas, scikit-learn, SQLite, Git, GitHub and VS Code icons" />
+
+</div>
+
 ## Selected projects
 
 These public repositories are learning-project starters. Projects marked “Local” are still being prepared; links will be added after they are published. No model results are claimed unless an experiment has actually been run and documented.
@@ -57,7 +61,16 @@ I aim to document data sources and licenses, prevent data leakage, use task-appr
 
 ## GitHub activity
 
-The GitHub activity panel shows current account activity. I have omitted third-party statistics cards rather than imply results or counts that may be unavailable or delayed.
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=FSENAKAYA-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=68F5D0&text_color=C9D1D9&icon_color=9B7BFF&count_private=false" alt="Public GitHub contribution statistics" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FSENAKAYA-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=68F5D0&text_color=C9D1D9&langs_count=6" alt="Most used languages in public repositories; this is not a measure of proficiency" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=FSENAKAYA-code&theme=tokyonight&hide_border=true&background=0D1117&ring=68F5D0&fire=9B7BFF&currStreakLabel=68F5D0" alt="Public GitHub contribution streak" width="75%" />
+
+</div>
+
+The cards summarize public GitHub activity and may update with a delay. The language card reflects repository contents, not skill level. The images are served by community projects, so they may occasionally be unavailable.
 
 ## Opportunities
 
