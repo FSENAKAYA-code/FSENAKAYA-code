@@ -1,15 +1,44 @@
-# Profile artwork concepts
+# Warm-neutral profile artwork
 
-Image generation was unavailable in the editing session, so these are prompts for a later image tool. Keep the artwork abstract; no portrait likeness was supplied. Use the same palette for both assets: deep navy `#101827`, teal `#34D1BF`, soft lavender `#A78BFA`, and off-white `#F4F7FB`. Avoid logos, brand marks, text, watermarks, and tiny decorative detail.
+The warm workspace photographs in the local Desktop source folder were reviewed as
+style references only. They are not copied into this repository. Image generation
+was unavailable during this edit, so no raster banner or GIF is claimed as created.
+The current README uses the finished SVG monogram avatar; generate a banner later
+with the prompt below and add it as `assets/profile-banner.png` before referencing it.
 
-## Wide profile banner
+## Profile banner
 
-**Recommended canvas:** 1600 × 400 px (4:1). Keep important shapes centered and within the middle 80% so the banner can be cropped responsively.
+**Recommended canvas:** 1584 × 396 px (4:1). Keep all text and key objects within the
+central 80% for responsive cropping.
 
-**Prompt:** “Create a polished, minimal abstract GitHub profile banner for a student portfolio focused on management information systems, programming, data science, and AI. Deep navy background with restrained teal and soft lavender accents. Flowing data points and fine connected lines suggest learning, analytics, and computer vision without depicting literal brand logos. Clean editorial design, generous negative space, high contrast, subtle depth, refined and credible rather than flashy. Wide 4:1 composition. No text, no letters, no people, no logos, no watermark.”
+**Prompt:**
 
-## Matching square avatar concept
+> Use case: photorealistic-natural. Asset type: GitHub profile banner. Create a refined,
+> warm-neutral editorial study workspace inspired by the supplied photographs as style
+> references only: soft afternoon sunlight, beige paper and linen textures, a generic
+> unbranded laptop, a coffee cup, notebook, and pen. Add only a very subtle data chart
+> or connected-node motif. Palette: warm ivory `#F5F0E8`, soft beige `#E5D8C8`, charcoal
+> `#292722`, muted sage `#9BA58D`, and latte brown `#AD8B68`. Leave generous quiet space
+> behind typography; composition should feel elegant, natural, and uncluttered.
+>
+> Render this exact text, letter-for-letter, with strong contrast and excellent
+> legibility: “FATMA SENA KAYA”; “Management Information Systems · Computer
+> Programming”; “AI & Machine Learning · Data Science · Business Intelligence”;
+> “Building thoughtful, data-driven solutions.”
+>
+> Do not reproduce any reference photograph, person, personal photo, visible trademark,
+> logo, brand name, or legible text from a reference. Do not add fake statistics, awards,
+> technology logos, extra copy, watermarks, or dense decoration. No animation is needed.
 
-**Recommended canvas:** 1024 × 1024 px. Keep the central mark inside the middle 70% for circular cropping.
+## Optional raster avatar variant
 
-**Prompt:** “Create a simple abstract portfolio avatar mark that visually matches a deep navy, teal, and soft lavender technology banner. A crisp geometric spark formed from a few connected data nodes, suggesting curiosity and steady learning. Centered composition, clear silhouette at small sizes, high contrast, flat-to-soft gradient finish. No initials, no text, no person, no logos, no watermark. Square image.”
+**Recommended canvas:** 400 × 400 px, safe for circular cropping.
+
+**Prompt:**
+
+> Use case: logo-brand. Asset type: square GitHub avatar. Create a minimal, crisp “FS”
+> monogram with a small, subtle connected-node motif above it. Use warm ivory
+> `#F5F0E8`, charcoal `#292722`, and muted sage `#9BA58D`; restrained latte-brown
+> detail is optional. Center the mark within the middle 70%, with generous negative
+> space and a clear silhouette at small sizes. No portrait, other letters, name,
+> watermark, or external logo.

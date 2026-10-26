@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">FS monogram</title>
+  <desc id="desc">Charcoal FS initials with a muted sage data network on warm ivory.</desc>
+  <circle cx="200" cy="200" r="194" fill="#F5F0E8" stroke="#9BA58D" stroke-width="8"/>
+  <circle cx="200" cy="200" r="178" fill="none" stroke="#E5D8C8" stroke-width="2"/>
+  <g fill="none" stroke="#9BA58D" stroke-linecap="round" stroke-width="5">
+    <path d="M126 113 176 78 224 111 274 77"/>
+    <path d="M176 78 193 137 224 111 246 143"/>
+  </g>
+  <g fill="#AD8B68" stroke="#F5F0E8" stroke-width="4">
+    <circle cx="126" cy="113" r="10"/><circle cx="176" cy="78" r="10"/>
+    <circle cx="224" cy="111" r="10"/><circle cx="274" cy="77" r="10"/>
+    <circle cx="193" cy="137" r="8"/><circle cx="246" cy="143" r="8"/>
+  </g>
+  <text x="200" y="260" text-anchor="middle" fill="#292722" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="700" letter-spacing="-8">FS</text>
+  <path d="M143 290h114" stroke="#9BA58D" stroke-width="3" stroke-linecap="round"/>
+  <text x="200" y="324" text-anchor="middle" fill="#6B665E" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="4">DATA · AI · SYSTEMS</text>
+</svg>
