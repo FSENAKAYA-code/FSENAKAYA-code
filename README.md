@@ -36,26 +36,28 @@ Computer vision and CNNs · Turkish NLP and sentiment analysis · audio analysis
 
 ## Selected projects
 
-These projects are local works in progress and are not published on GitHub yet. Names and summaries below describe the repositories currently present in my portfolio workspace; results and public links will be added after review and publication.
+These public repositories are learning-project starters. Projects marked “Local” are still being prepared; links will be added after they are published. No model results are claimed unless an experiment has actually been run and documented.
 
 | Project | Current focus | Status |
 |---|---|---|
-| `vision-matrix-cnn` | Image classification and CNN experiments | In progress |
-| `acoustic-pulse-hmm` | Audio features and GMM/HMM experiments | In progress |
-| `sitcom-sentiment` | Turkish sentiment baseline and sitcom-domain evaluation | In progress |
-| `market-pulse-scraper` | Allowlisted public-page collection and price analysis | In progress |
-| `health-mhrs-analytics` | Privacy-conscious appointment analytics | In progress |
-| `fintech-algorithmic-trader` | Time-series analysis and risk metrics | In progress |
-| `enterprise-erp-dashboard` | Business metrics and SQL-ready analytics | In progress |
-| `anomaly-detector-fraud` | Imbalanced classification and anomaly evaluation | In progress |
-| `neural-hybrid-pipeline` | Image and tabular feature fusion | In progress |
-| `automated-ci-ml-ops` | Reproducible experiments, tests, and CI | In progress |
+| `vision-matrix-cnn` | Image classification and CNN experiments | Local |
+| [`acoustic-pulse-hmm`](https://github.com/FSENAKAYA-code/acoustic-pulse-hmm) | Audio features and GMM/HMM experiments | Public · In progress |
+| `nlp-sentiment-engine` | Turkish text preprocessing and sentiment baseline | Local |
+| `sitcom-sentiment` | Turkish sentiment baseline and sitcom-domain evaluation | Local |
+| [`haveni-vision`](https://github.com/FSENAKAYA-code/haveni-vision) | Local cat coat-colour analysis and manual region measurements | Public · In progress |
+| [`market-pulse-scraper`](https://github.com/FSENAKAYA-code/market-pulse-scraper) | Allowlisted public-page collection and price analysis | Public · In progress |
+| [`health-mhrs-analytics`](https://github.com/FSENAKAYA-code/health-mhrs-analytics) | Privacy-conscious appointment analytics | Public · In progress |
+| [`fintech-algorithmic-trader`](https://github.com/FSENAKAYA-code/fintech-algorithmic-trader) | Time-series analysis and risk metrics | Public · In progress |
+| [`enterprise-erp-dashboard`](https://github.com/FSENAKAYA-code/enterprise-erp-dashboard) | Business metrics and SQL-ready analytics | Public · In progress |
+| [`anomaly-detector-fraud`](https://github.com/FSENAKAYA-code/anomaly-detector-fraud) | Imbalanced classification and anomaly evaluation | Public · In progress |
+| [`neural-hybrid-pipeline`](https://github.com/FSENAKAYA-code/neural-hybrid-pipeline) | Image and tabular feature fusion | Public · In progress |
+| [`automated-ci-ml-ops`](https://github.com/FSENAKAYA-code/automated-ci-ml-ops) | Reproducible experiments, tests, and CI | Public · In progress |
 
 I aim to document data sources and licenses, prevent data leakage, use task-appropriate metrics, and report only results from experiments that have actually run.
 
 ## GitHub activity
 
-The profile repositories are being prepared locally. Public repository links and activity summaries will become meaningful after the repositories are published. Any future statistics cards will rely on a third-party service and may be unavailable or delayed.
+The GitHub activity panel shows current account activity. I have omitted third-party statistics cards rather than imply results or counts that may be unavailable or delayed.
 
 ## Opportunities
 
