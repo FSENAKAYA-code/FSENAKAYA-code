@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1100&color=68F5D0&center=true&vCenter=true&width=680&height=42&lines=Management+Information+Systems+student;Learning+AI%2C+data+science+and+software;Building+small%2C+reproducible+projects" alt="Animated introduction: MIS student learning AI, data science and software" />
 
-[GitHub](https://github.com/FSENAKAYA-code) · [LinkedIn](https://www.linkedin.com/in/sena-kaya-8634ba383/)
+[![GitHub](https://img.shields.io/badge/GitHub-FSENAKAYA--code-0D1117?style=for-the-badge&logo=github&logoColor=68F5D0)](https://github.com/FSENAKAYA-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sena%20Kaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-kaya-8634ba383/)
+[![Open to opportunities](https://img.shields.io/badge/Open_to-Internships_%26_Scoped_Freelance-173B3A?style=for-the-badge&logo=rocket&logoColor=68F5D0)](https://github.com/FSENAKAYA-code)
 
 *Building thoughtful, data-driven solutions — one project at a time.*
 
@@ -34,7 +36,7 @@ Computer vision and CNNs · Turkish NLP and sentiment analysis · audio analysis
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,pandas,sklearn,sqlite,git,github,vscode&theme=dark" alt="Python, PyTorch, pandas, scikit-learn, SQLite, Git, GitHub and VS Code icons" />
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,sqlite,git,github,vscode&theme=dark" alt="Python, PyTorch, scikit-learn, SQLite, Git, GitHub and VS Code icons" /></a>
 
 </div>
 
@@ -82,6 +84,8 @@ I am eager to keep learning, improve my portfolio, collaborate, and apply for in
 - LinkedIn: [Sena Kaya](https://www.linkedin.com/in/sena-kaya-8634ba383/)
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3BFF,55:102A43,100:0D1117&height=120&section=footer&text=Keep%20learning.%20Keep%20building.&fontSize=18&fontColor=68F5D0&animation=fadeIn" alt="Violet and teal wave footer with the text Keep learning. Keep building." width="100%" />
 
 *Curious by nature. Always learning.*
 
